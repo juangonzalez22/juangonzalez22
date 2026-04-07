@@ -29,7 +29,7 @@ Creo firmemente en el aprendizaje continuo y en construir soluciones que, ademá
 
 <p>
     <a href="https://blak-dev.itch.io/">
-    <img src="https://img.shields.io/badge/🎮 Ver mis juegos en itch.io-FF2449?style=for-the-badge&logo=itchdotio&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ver mis juegos en itch.io-FF2449?style=for-the-badge&logo=itchdotio&logoColor=white" />
   </a>
 </p>
 
