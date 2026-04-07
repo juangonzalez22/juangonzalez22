@@ -56,11 +56,6 @@ Considero que la ingeniería es un arte técnico. Cuando me alejo del código, d
 
 ---
 
-## 📊 Mis Estadísticas
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=juangonzalez22&theme=tokyonight" />
-</p>
-
 ## 📫 Contacto
 <p align="left">
   <a href="https://www.linkedin.com/in/juan-jos%C3%A9-gonz%C3%A1lez-r%C3%ADos-462503361/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
