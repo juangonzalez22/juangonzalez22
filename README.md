@@ -57,10 +57,7 @@ Considero que la ingeniería es un arte técnico. Cuando me alejo del código, d
 ---
 
 ## 📊 Mis Estadísticas
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=vue-dark&hide_border=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=vue-dark&hide_border=true" alt="Langs" />
-</p>
+[![](https://github-readme-stats.vercel.app/api?username=juangonzalez22)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
