@@ -55,6 +55,14 @@ Considero que la ingeniería es un arte técnico. Cuando me alejo del código, d
 * 🌱 **Vida:** Valoro enormemente la sencillez de compartir tiempo genuino con mis personas favoritas.
 
 ---
+## 🎮 Mis Proyectos
+
+<p align="center">
+  <a href="https://blak-dev.itch.io/">
+    <img src="https://img.shields.io/badge/🎮 Ver mis juegos en itch.io-FF2449?style=for-the-badge&logo=itchdotio&logoColor=white" />
+  </a>
+</p>
+---
 
 ## 📫 Contacto
 <p align="left">
