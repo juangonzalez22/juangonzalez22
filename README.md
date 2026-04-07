@@ -27,6 +27,12 @@ Creo firmemente en el aprendizaje continuo y en construir soluciones que, ademá
   <img src="https://img.shields.io/badge/Pillow-000000?style=flat-square&logo=pypi&logoColor=white" />
 </p>
 
+<p>
+    <a href="https://blak-dev.itch.io/">
+    <img src="https://img.shields.io/badge/🎮 Ver mis juegos en itch.io-FF2449?style=for-the-badge&logo=itchdotio&logoColor=white" />
+  </a>
+</p>
+
 ### 🧠 Inteligencia Artificial & Datos
 <p align="left">
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
@@ -53,15 +59,6 @@ Considero que la ingeniería es un arte técnico. Cuando me alejo del código, d
 * 🎹 **Música:** Me gusta tocar el piano. Disfruto de bandas con identidad fuerte como **Linkin Park**, **Gorillaz** y **Twenty One Pilots**.
 * 🎮 **Videojuegos:** Gran parte de mi motivación por crear mundos viene de mi juego favorito, **Super Mario Galaxy**, por su impecable diseño y atmósfera.
 * 🌱 **Vida:** Valoro enormemente la sencillez de compartir tiempo genuino con mis personas favoritas.
-
----
-## 🎮 Mis Proyectos
-
-<p align="center">
-  <a href="https://blak-dev.itch.io/">
-    <img src="https://img.shields.io/badge/🎮 Ver mis juegos en itch.io-FF2449?style=for-the-badge&logo=itchdotio&logoColor=white" />
-  </a>
-</p>
 ---
 
 ## 📫 Contacto
@@ -69,7 +66,6 @@ Considero que la ingeniería es un arte técnico. Cuando me alejo del código, d
   <a href="https://www.linkedin.com/in/juan-jos%C3%A9-gonz%C3%A1lez-r%C3%ADos-462503361/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:juanjogr357@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
 ---
 
 <div align="center">
