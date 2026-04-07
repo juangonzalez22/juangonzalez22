@@ -58,9 +58,8 @@ Considero que la ingeniería es un arte técnico. Cuando me alejo del código, d
 
 ## 📊 Mis Estadísticas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juangonzalez22&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=juangonzalez22&theme=tokyonight" />
 </p>
----
 
 ## 📫 Contacto
 <p align="left">
